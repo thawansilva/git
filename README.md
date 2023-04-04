@@ -16,5 +16,3 @@ git status - diz qual a situação atual do repo (o que foi modificado, o que fo
 git push - Joga as mudanças que foram feitas para o repo que está no Github
 
 git pull - Puxa a nova versão que está no Github para o seu PC
-
-isso não tem na versão do computador
