@@ -16,3 +16,9 @@ git status - diz qual a situação atual do repo (o que foi modificado, o que fo
 git push - Joga as mudanças que foram feitas para o repo que está no Github
 
 git pull - Puxa a nova versão que está no Github para o seu PC
+
+merge conflicts - Quando você faz o pull de um repo no github e dá conflito com o repo local do pc
+
+git log - mostra um histórico de commits que você fez.
+
+git reset - Permite voltar para uma versão antiga do repo
