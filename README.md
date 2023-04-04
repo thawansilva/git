@@ -14,3 +14,5 @@ git commit - criando uma nova versão com as atualizações feitas
 
 git status - diz qual a situação atual do repo (o que foi modificado, o que foi excluido, o que foi adicionado)
 git push - Joga as mudanças que foram feitas para o repo que está no Github
+
+git pull - Puxa a nova versão que está no Github para o seu PC
