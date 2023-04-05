@@ -22,3 +22,5 @@ merge conflicts - Quando você faz o pull de um repo no github e dá conflito co
 git log - mostra um histórico de commits que você fez.
 
 git reset - Permite voltar para uma versão antiga do repo
+
+branching - quando você criar uma ramificação/outra versão de um projeto, geralmente é usado quando se quer criar algo novo em cima do projeto, mas não quer afetar a versão estável.
