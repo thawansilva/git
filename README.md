@@ -24,3 +24,8 @@ git log - mostra um histórico de commits que você fez.
 git reset - Permite voltar para uma versão antiga do repo
 
 branching - quando você criar uma ramificação/outra versão de um projeto, geralmente é usado quando se quer criar algo novo em cima do projeto, mas não quer afetar a versão estável.
+
+git branch - usando para ir para uma branch diferente
+git checkout - confere se há outros branchs
+git merge - usado para juntar as branchs
+git checkout -b "name of the branch"- Usado para criar uma nova branch
