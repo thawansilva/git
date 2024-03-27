@@ -17,7 +17,7 @@ git push - Joga as mudanças que foram feitas para o repo que está no Github
 
 git pull - Puxa a nova versão que está no Github para o seu PC
 
-merge conflicts - Quando você faz o pull de um repo no github e dá conflito com o repo local do pc
+merge conflicts - Quando você faz o pull de um repo no github e dá conflito com o repo local do pc, no mesmo código que você escreveu
 
 git log - mostra um histórico de commits que você fez.
 
@@ -30,4 +30,4 @@ git checkout - confere se há outros branchs
 git merge - usado para juntar as branchs
 git checkout -b "name of the branch"- Usado para criar uma nova branch
 
-one more alteration
+Fazendo essa alteração pelo VSCode
