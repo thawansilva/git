@@ -29,6 +29,3 @@ git branch - usando para ir para uma branch diferente
 git checkout - confere se há outros branchs
 git merge - usado para juntar as branchs
 git checkout -b "name of the branch"- Usado para criar uma nova branch
-
-Fazendo essa alteração pelo VSCode
-Fazendo essa alteração pelo github
